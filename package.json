@@ -1,0 +1,19 @@
+{
+  "name": "preact-conditional-runtime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpnelson/preact-conditional-runtime.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpnelson/preact-conditional-runtime/issues"
+  },
+  "homepage": "https://github.com/jpnelson/preact-conditional-runtime#readme"
+}
